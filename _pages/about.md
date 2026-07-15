@@ -9,7 +9,7 @@ profile:
   image: prof_pic_color.png
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>Bangalore, Karnataka, India</p>
+    <p>New York, United States</p>
     <p><a href="mailto:advika.laks@gmail.com">advika.laks@gmail.com</a></p>
 
 selected_papers: true # includes a list of papers marked as "selected={true}"
