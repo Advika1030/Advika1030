@@ -11,7 +11,6 @@ profile:
   more_info: >
     <p>Bangalore, Karnataka, India</p>
     <p><a href="mailto:advika.laks@gmail.com">advika.laks@gmail.com</a></p>
-    <p>+91 6366330309</p>
 
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
