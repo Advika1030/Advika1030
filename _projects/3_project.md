@@ -4,14 +4,33 @@ title: Sketch-to-Face Image Translation using DCGAN
 description: Deep learning pipeline converting face sketches to realistic images on the CUHK dataset.
 importance: 3
 category: research
+github: Advika1030/ReFaceIt
+github_stars: true
 ---
 
-Created a deep learning pipeline using DCGAN to convert face sketches into realistic images using the CUHK dataset.
+**Jun 2025 · Generative AI · DCGAN · Computer vision**
 
-**Highlights**
+Created a deep learning pipeline using DCGANs to translate face sketches into realistic facial images on the CUHK Face Sketch FERET dataset.
 
-- Trained two model variants with Binary Cross Entropy loss and Mean Squared Error loss.
-- Compared image quality using SSIM (0.51 vs. 0.55).
-- Delivered a modular codebase with loss visualizations, checkpoints, and organized outputs.
+### Problem
 
-**Date:** Jun 2025
+Sketch-to-photo translation is an ill-posed image generation task requiring the model to hallucinate realistic texture and identity cues from sparse line drawings.
+
+### Approach
+
+- Trained two DCGAN variants with different reconstruction objectives
+- Compared Binary Cross Entropy loss against Mean Squared Error loss
+- Built a modular codebase with training logs, checkpoints, and organized outputs
+
+### Results
+
+| Loss function | SSIM |
+| ------------- | ---- |
+| BCE           | 0.51 |
+| MSE           | 0.55 |
+
+### Tech stack
+
+PyTorch, DCGAN, CUHK dataset, image generation, training visualization
+
+**Repository:** [Advika1030/ReFaceIt](https://github.com/Advika1030/ReFaceIt)

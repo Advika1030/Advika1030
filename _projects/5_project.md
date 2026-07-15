@@ -4,14 +4,32 @@ title: Geophysical Data Enhancement through Masked Autoencoders
 description: GAN-enhanced and Vision Transformer MAE variants for seismic data inpainting.
 importance: 5
 category: research
+github: Advika1030/ML-project-MAE
+github_stars: true
 ---
 
-Utilized a suite of Masked Autoencoder models—GAN-enhanced and Vision Transformer-integrated variants—to perform inpainting tasks on seismic data.
+**Mar 2024 · Self-supervised learning · Seismic imaging · PyTorch**
 
-**Highlights**
+Developed Masked Autoencoder (MAE) variants—including GAN-enhanced and Vision Transformer-integrated models—to inpaint and restore missing regions in geophysical seismic images.
 
-- Restored geophysical images with high fidelity for subsurface interpretation.
-- Compared multiple MAE architectures for geophysical data enhancement.
-- Supported accurate resource exploration analysis through improved image reconstruction.
+### Problem
 
-**Date:** Mar 2024
+Seismic data often contains missing or corrupted regions that hinder subsurface interpretation and downstream exploration analysis.
+
+### Approach
+
+- Implemented multiple MAE architectures for geophysical inpainting
+- Compared GAN-enhanced and ViT-integrated reconstruction strategies
+- Evaluated restoration quality for scientific image analysis workflows
+
+### Results
+
+- Recovered structurally consistent seismic patterns in masked regions
+- Improved visual fidelity for subsurface interpretation tasks
+- Delivered a comparative study of MAE design choices for geophysical data
+
+### Tech stack
+
+PyTorch, masked autoencoders, Vision Transformers, GANs, seismic image processing
+
+**Repository:** [Advika1030/ML-project-MAE](https://github.com/Advika1030/ML-project-MAE)

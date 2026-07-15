@@ -1,15 +1,15 @@
 github_users:
   - Advika1030
 
-repo_description_lines_max: 2
+repo_description_lines_max: 3
 
 github_repos:
-  - Advika1030/EarlySepsisPrediction
   - Advika1030/wavelet-inpainting
+  - Advika1030/EarlySepsisPrediction
   - Advika1030/ReFaceIt
   - Advika1030/ML-project-MAE
   - Advika1030/AI-prj
   - Advika1030/Salary-Prediction-Machine-learning
-  - Advika1030/AdvikaLaks
   - Advika1030/flask-blog
   - Advika1030/learning-C-plus-plus
+  - Advika1030/AdvikaLaks

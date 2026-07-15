@@ -27,8 +27,8 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-I am an incoming MS Data Science student at NYU with a B.Tech in Artificial Intelligence and Data Science from Shiv Nadar University (CGPA 9.0/10). My work spans medical imaging, clinical prediction, speech and language modeling, and applied machine learning for biomedical and agricultural problems.
+I am an incoming MS Data Science student at NYU with a B.Tech in Artificial Intelligence and Data Science from Shiv Nadar University. My work spans medical imaging, clinical prediction, speech and language modeling, and applied machine learning for biomedical and agricultural problems.
 
-I am currently a Data Science Intern at Strand Life Sciences, where I build hierarchical and multiclass ML pipelines for blood-based cancer screening and tissue-of-origin prediction. I have also conducted research with the University of Chicago on crop yield forecasting, with IIT Madras on speech recognition, and through global programs at NUS in big data analytics and generative AI.
+I previously interned at Strand Life Sciences, where I built hierarchical and multiclass ML pipelines for blood-based cancer screening and tissue-of-origin prediction. I have also conducted research with the University of Chicago on crop yield forecasting, with IIT Madras on speech recognition, and through global programs at NUS in big data analytics and generative AI.
 
 My research interests include deep learning, multimodal representation learning, diffusion models, and building reliable ML systems for healthcare and scientific applications. Outside research, I am a professional Bharatanatyam dancer with over 12 years of training.

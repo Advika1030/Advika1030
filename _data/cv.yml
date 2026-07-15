@@ -4,7 +4,7 @@ cv:
   email: advika.laks@gmail.com
   location: Bangalore, Karnataka, India
   image: ""
-  summary: B.Tech in Artificial Intelligence and Data Science from Shiv Nadar University (CGPA 9.0/10). Research and industry experience in medical imaging, clinical ML, speech technology, and biomedical data science.
+  summary: B.Tech in Artificial Intelligence and Data Science from Shiv Nadar University. Research and industry experience in medical imaging, clinical ML, speech technology, and biomedical data science.
 
   social_networks:
     - network: LinkedIn
@@ -15,7 +15,7 @@ cv:
   sections:
     Education:
       - institution: Shiv Nadar University
-        location: Chennai, Tamil Nadu, India
+        location: Chennai
         area: Artificial Intelligence and Data Science
         studyType: B.Tech
         start_date: 2022
@@ -40,7 +40,7 @@ cv:
         position: Data Science Intern
         location: India
         start_date: 2026-01
-        end_date: present
+        end_date: 2026-03
         highlights:
           - "Built hierarchical and multiclass ML pipelines for CancerSpot, a multi-omic AI framework for blood-based cancer screening and tissue-of-origin prediction."
           - "Developed L1 cancer detection and L2 tissue-of-origin workflows with sex-specific routing and threshold calibration."

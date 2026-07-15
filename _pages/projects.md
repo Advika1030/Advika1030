@@ -2,11 +2,11 @@
 layout: page
 title: projects
 permalink: /projects/
-description: Academic and research projects in machine learning, deep learning, and biomedical AI.
+description: Research projects in medical imaging, clinical ML, generative models, and speech AI.
 nav: true
 nav_order: 3
 display_categories: [research]
-horizontal: false
+horizontal: true
 ---
 
 <!-- pages/projects.md -->
