@@ -4,7 +4,6 @@ title: Geophysical Data Enhancement through Masked Autoencoders
 description: GAN-enhanced and Vision Transformer MAE variants for seismic data inpainting.
 importance: 5
 category: research
-github: https://github.com/Advika1030/ML-project-MAE
 ---
 
 **Mar 2024 · Self-supervised learning · Seismic imaging · PyTorch**
@@ -30,5 +29,3 @@ Seismic data often contains missing or corrupted regions that hinder subsurface 
 ### Tech stack
 
 PyTorch, masked autoencoders, Vision Transformers, GANs, seismic image processing
-
-**Repository:** [Advika1030/ML-project-MAE](https://github.com/Advika1030/ML-project-MAE)
