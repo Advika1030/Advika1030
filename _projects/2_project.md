@@ -4,8 +4,7 @@ title: Early Sepsis Prediction
 description: Machine learning pipeline for early sepsis detection from ICU time-series clinical data.
 importance: 2
 category: research
-github: Advika1030/EarlySepsisPrediction
-github_stars: true
+github: https://github.com/Advika1030/EarlySepsisPrediction
 ---
 
 **Jun 2025 · Clinical ML · PhysioNet 2019 · Python**

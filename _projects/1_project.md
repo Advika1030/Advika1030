@@ -4,8 +4,7 @@ title: Medical Image Inpainting for Brain MRI
 description: Diffusion-based inpainting with DDPM and Diffusion KAN (U-KAN) for tumor-masked T1 MRI slices.
 importance: 1
 category: research
-github: Advika1030/wavelet-inpainting
-github_stars: true
+github: https://github.com/Advika1030/wavelet-inpainting
 ---
 
 **Nov 2025 · Medical imaging · Diffusion models · PyTorch**

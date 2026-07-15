@@ -4,8 +4,7 @@ title: Sketch-to-Face Image Translation using DCGAN
 description: Deep learning pipeline converting face sketches to realistic images on the CUHK dataset.
 importance: 3
 category: research
-github: Advika1030/ReFaceIt
-github_stars: true
+github: https://github.com/Advika1030/ReFaceIt
 ---
 
 **Jun 2025 · Generative AI · DCGAN · Computer vision**
