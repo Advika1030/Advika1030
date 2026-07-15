@@ -2,33 +2,33 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Motto. Etc.
+subtitle: Incoming MS Data Science student at NYU · B.Tech AI & Data Science, Shiv Nadar University
 
 profile:
   align: right
-  image: prof_pic.jpg
+  image: prof_pic_color.png
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>555 your office number</p>
-    <p>123 your address street</p>
-    <p>Your City, State 12345</p>
+    <p>Bangalore, Karnataka, India</p>
+    <p><a href="mailto:advika.laks@gmail.com">advika.laks@gmail.com</a></p>
+    <p>+91 6366330309</p>
 
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 
 announcements:
-  enabled: true # includes a list of news items
+  enabled: false # includes a list of news items
   scrollable: true # adds a vertical scroll bar if there are more than 3 news items
   limit: 5 # leave blank to include all the news in the `_news` folder
 
 latest_posts:
-  enabled: true
+  enabled: false
   scrollable: true # adds a vertical scroll bar if there are more than 3 new posts items
   limit: 3 # leave blank to include all the blog posts
 ---
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](https://www.reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+I am an incoming MS Data Science student at NYU with a B.Tech in Artificial Intelligence and Data Science from Shiv Nadar University (CGPA 9.0/10). My work spans medical imaging, clinical prediction, speech and language modeling, and applied machine learning for biomedical and agricultural problems.
 
-Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/publications/) automatically.
+I am currently a Data Science Intern at Strand Life Sciences, where I build hierarchical and multiclass ML pipelines for blood-based cancer screening and tissue-of-origin prediction. I have also conducted research with the University of Chicago on crop yield forecasting, with IIT Madras on speech recognition, and through global programs at NUS in big data analytics and generative AI.
 
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+My research interests include deep learning, multimodal representation learning, diffusion models, and building reliable ML systems for healthcare and scientific applications. Outside research, I am a professional Bharatanatyam dancer with over 12 years of training.
